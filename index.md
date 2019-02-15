@@ -5,5 +5,6 @@ Welcome
 
 # Link test
 
-[MYPAGE](sshtel.github.io/MYPAGE)
+[MYPAGE](https://sshtel.github.io/MYPAGE)
+
 [MYPAGE](./MYPAGE)
